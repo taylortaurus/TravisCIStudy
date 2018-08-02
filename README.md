@@ -1,8 +1,8 @@
 # <div align="center"> Ranorex User Guide 中文版 </div>  
 
 <div align="right">
-    <a href="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN" target="_blank">
-        <img src="https://travis-ci.org/taylortaurus/Ranorex_UserGuide_zh_CN.svg?branch=gitbook">
+    <a href="https://travis-ci.org/taylortaurus/TravisCIStudy" target="_blank">
+        <img src="https://travis-ci.org/taylortaurus/TravisCIStudy.svg?branch=gitbook">
     </a>
 </div>  
 
