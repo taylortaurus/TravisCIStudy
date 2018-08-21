@@ -9,7 +9,6 @@ notifications:
   email:
     recipients:
       - taylortaurus0517@gmail.com
-      - yuanzheng0517@foxmail.com
     on_success: always # default: change
     on_failure: always # default: always
 
