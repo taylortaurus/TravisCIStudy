@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://ranorex.xyz/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Ranorize yourself in 20 minutes/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Ranorex Studio/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Ranorex Recorder/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Test suite/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Actions/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Repository/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Test validation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Whitelisting/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio fundamentals/Reporting/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Data-driven testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Variables &amp; parameter/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Tracking UI-elements/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Spy/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/UI-elements/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/RanoreXPath/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/RanoreXPath/[译]RanoreXPath蓝图.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/RanoreXPath/[译]RanoreXPath语法示例.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Image-based automation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]Ranorex代理.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]Ranorex代理的安装和设置.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]配置Ranorex代理.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]远程面板.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]添加Ranorex代理.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]代理列表.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]执行测试.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]运行历史.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]远程系统要求.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]远程故障排除.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Ranorex Remote/[译]远程常见问题.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio advanced/Maintenance mode/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Mapping dynamic UI elements/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Regular expressions in RanoreXPath/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/User code library/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/User code library/[译]集合和方法.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/User code library/[译]使用用户代码库.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Code modules/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]创建.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]构建.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]运行.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]添加新项目.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]解决方案资源管理器.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]代码补全.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]调试.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]代码转换.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]代码导航.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]代码生成.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio expert/Ranorex Studio IDE/[译]重构.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/Web testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/Endpoints/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/Mobile testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/Android testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Web and mobile testing/iOS testing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Ranorex Instrumentation Wizard/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Technology instrumentation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/TestRail integration/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Source control and revision control/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Continuous integration/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Visual Studio integration/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Selenium Webdriver integration/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/XCOPY deployment/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Ranorex on a remote desktop/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Interfaces and connectivity/Plugins/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/Licensing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/Settings and configuration/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/Settings and configuration/[译]Ranorex录制器设置.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/System requirements/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/64-bit platforms/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Ranorex Studio system details/Silent installation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Hands-on application topics/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Hands-on application topics/Solutions to common problems/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Hands-on application topics/Best practices/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Hands-on application topics/Code examples/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://ranorex.xyz/Hands-on application topics/Ranorex Automation Helpers/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
